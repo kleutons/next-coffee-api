@@ -3,37 +3,30 @@ name: GitHub Pages Deploy
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-    
-    - name: Install Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16.x
-    
-    - name: Install NPM packages
-      run: npm ci
-    
-    - name: Iniciar json-graphql-server
+      - name: Checkout código-fonte
+        uses: actions/checkout@v2
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Iniciar json-graphql-server
         run: |
           nohup npx json-graphql-server db.js --p 4000 > /dev/null 2>&1 &
           sleep 5s
 
-    - name: Upload production-ready build files
-      uses: actions/upload-artifact@v2
-      with:
-        name: production-files
-        path: ./
-  
-  deploy:
-    - name: Deploy no GitHub Pages
+      - name: Deploy no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

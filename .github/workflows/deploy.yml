@@ -3,7 +3,7 @@ name: GitHub Pages Deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Iniciar json-graphql-server
         run: |
-          nohup npx json-graphql-server db.js --p 4000 > /dev/null 2>&1 &
+          nohup npx json-graphql-server db.js --p 80 > /dev/null 2>&1 &
           sleep 5s
 
       - name: Deploy no GitHub Pages

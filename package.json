@@ -1,5 +1,6 @@
 {
   "name": "api",
+  "homepage": "https://kleutons.github.io/next-coffee-api/",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

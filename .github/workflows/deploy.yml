@@ -1,10 +1,9 @@
 name: Atualizar API JSON
 
 on:
-  push:
+  pull_request:
     branches:
       - master
-    
 
 jobs:
   deploy:
@@ -22,4 +21,4 @@ jobs:
 
     - name: Publicar no GitHub Pages
       run: |
-        gh-pages -d $GITHUB_WORKSPACE -b master
+        gh-pages -d . -b master

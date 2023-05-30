@@ -1,76 +1,301 @@
 {
     "allProducts": [
       {
+        "id": "001",
         "name": "Caneca de cerâmica rústica",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 01",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "4000"
       },
       {
+        "id": "002",
         "name": "Camiseta not today.",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 02",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "7800"
       },
       {
+        "id": "003",
         "name": "Caneca Black Ring",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 03",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "3200"
       },
       {
+        "id": "004",
         "name": "Camiseta Broken Saints",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 04",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "5800"
       },
       {
+        "id": "005",
         "name": "Camiseta Outcast",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 05",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "8900"
       },
       {
+        "id": "006",
         "name": "Caneca The Grounds",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 06",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "8500"
       },
       {
+        "id": "007",
         "name": "Camiseta evening",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 07",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "6900"
       },
       {
+        "id": "008",
         "name": "Caneca preto fosco",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 08",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "2800"
       },
       {
+        "id": "009",
         "name": "Caneca Never settle",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 09",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "4300"
       },
       {
+        "id": "010",
         "name": "Camiseta DREAMER",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 10",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "5500"
       },
       {
+        "id": "011",
         "name": "Caneca Decaf! P&Co",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 11",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
-        "category": "mugs"
+        "category": "mugs",
+        "price_in_cents": "3200"
       },
       {
+        "id": "012",
         "name": "Camiseta Ramones",
-        "description": "faker.lorem.paragraph()",
+        "description": "Lorem ipsum dolor description - 12",
         "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
-        "category": "t-shirts"
+        "category": "t-shirts",
+        "price_in_cents": "9200"
+      },
+
+      {
+        "id": "013",
+        "name": "Caneca Decaf! P&Co",
+        "description": "Lorem ipsum dolor description - 13",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "category": "mugs",
+        "price_in_cents": "3200"
+      },
+      {
+        "id": "014",
+        "name": "Caneca preto fosco",
+        "description": "Lorem ipsum dolor description - 14",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "category": "mugs",
+        "price_in_cents": "2800"
+      },
+      {
+        "id": "015",
+        "name": "Caneca The Grounds",
+        "description": "Lorem ipsum dolor description - 15",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "category": "mugs",
+        "price_in_cents": "8500"
+      },
+      {
+        "id": "016",
+        "name": "Camiseta DREAMER",
+        "description": "Lorem ipsum dolor description - 16",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5500"
+      },
+      {
+        "id": "017",
+        "name": "Camiseta Ramones",
+        "description": "Lorem ipsum dolor description - 17",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "9200"
+      },
+      {
+        "id": "018",
+        "name": "Camiseta evening",
+        "description": "Lorem ipsum dolor description - 18",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "6900"
+      },
+      {
+        "id": "019",
+        "name": "Camiseta Outcast",
+        "description": "Lorem ipsum dolor description - 19",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "8900"
+      },
+      {
+        "id": "020",
+        "name": "Caneca de cerâmica rústica",
+        "description": "Lorem ipsum dolor description - 20",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "category": "mugs",
+        "price_in_cents": "4000"
+      },
+      {
+        "id": "021",
+        "name": "Caneca The Grounds",
+        "description": "Lorem ipsum dolor description - 21",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "category": "mugs",
+        "price_in_cents": "8500"
+      },
+      {
+        "id": "022",
+        "name": "Caneca Black Ring",
+        "description": "Lorem ipsum dolor description - 22",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "category": "mugs",
+        "price_in_cents": "3200"
+      },
+      {
+        "id": "023",
+        "name": "Camiseta Broken Saints",
+        "description": "Lorem ipsum dolor description - 23",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5800"
+      },
+      {
+        "id": "024",
+        "name": "Camiseta DREAMER",
+        "description": "Lorem ipsum dolor description - 24",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5500"
+      },
+
+      {
+        "id": "025",
+        "name": "Camiseta DREAMER",
+        "description": "Lorem ipsum dolor description - 25",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5500"
+      },
+      {
+        "id": "026",
+        "name": "Caneca preto fosco",
+        "description": "Lorem ipsum dolor description - 26",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "category": "mugs",
+        "price_in_cents": "2800"
+      },
+      {
+        "id": "027",
+        "name": "Camiseta Outcast",
+        "description": "Lorem ipsum dolor description - 27",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "8900"
+      },
+      {
+        "id": "028",
+        "name": "Caneca Black Ring",
+        "description": "Lorem ipsum dolor description - 28",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "category": "mugs",
+        "price_in_cents": "3200"
+      },
+      {
+        "id": "029",
+        "name": "Caneca Decaf! P&Co",
+        "description": "Lorem ipsum dolor description - 29",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "category": "mugs",
+        "price_in_cents": "3200"
+      },
+      {
+        "id": "030",
+        "name": "Camiseta evening",
+        "description": "Lorem ipsum dolor description - 30",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "6900"
+      },
+      
+      {
+        "id": "031",
+        "name": "Caneca The Grounds",
+        "description": "Lorem ipsum dolor description - 31",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "category": "mugs",
+        "price_in_cents": "8500"
+      },
+      {
+        "id": "032",
+        "name": "Caneca de cerâmica rústica",
+        "description": "Lorem ipsum dolor description - 32",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "category": "mugs",
+        "price_in_cents": "4000"
+      },
+    
+      {
+        "id": "033",
+        "name": "Camiseta Ramones",
+        "description": "Lorem ipsum dolor description - 33",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "9200"
+      },
+      
+      {
+        "id": "034",
+        "name": "Camiseta DREAMER",
+        "description": "Lorem ipsum dolor description - 34",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5500"
+      },
+
+      {
+        "id": "035",
+        "name": "Camiseta Broken Saints",
+        "description": "Lorem ipsum dolor description - 35",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "category": "t-shirts",
+        "price_in_cents": "5800"
+      },
+      {
+        "id": "036",
+        "name": "Caneca The Grounds",
+        "description": "Lorem ipsum dolor description - 36",
+        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "category": "mugs",
+        "price_in_cents": "8500"
       }
+      
+
+
     ]
   }

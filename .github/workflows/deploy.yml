@@ -1,6 +1,9 @@
 name: Atualizar API JSON
 
 on:
+  push:
+    branches:
+      - master
   pull_request:
     branches:
       - master

@@ -1,27 +1,33 @@
-name: Atualizar API JSON
+name: Build & deploy
 
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
+    name: Build
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
-    - name: Configurar pacotes npm
-      run: npm config set //registry.npmjs.org/:_authToken ${{ secrets.GITHUB_TOKEN }}
-
+    - name: Checkout code
+      uses: actions/checkout@v3
+  
     - name: Instalar peaceiris/actions-gh-pages
       run: npm install -g gh-pages
 
-    - name: Publicar no GitHub Pages
-      run: |
-        gh-pages -d ${{ github.workspace }} -b master
+    - name: Upload production-ready build files
+      uses: actions/upload-artifact@v2
+      with:
+        name: production-files
+        path: ./
+  
+    - name: Deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./

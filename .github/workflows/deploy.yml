@@ -24,4 +24,4 @@ jobs:
 
     - name: Publicar no GitHub Pages
       run: |
-        gh-pages -d . -b master
+        gh-pages -d $GITHUB_WORKSPACE -b master

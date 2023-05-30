@@ -1,4 +1,4 @@
-name: GitHub Pages Deploy
+name: Atualizar API JSON
 
 on:
   push:
@@ -9,28 +9,22 @@ on:
       - master
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout código-fonte
-        uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v2
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 14
+    - name: Copiar arquivo JSON
+      run: cp db.json $GITHUB_WORKSPACE
 
-      - name: Instalar dependências
-        run: npm install
+    - name: Configurar pacotes npm
+      run: npm config set //registry.npmjs.org/:_authToken ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Iniciar json-graphql-server
-        run: |
-          nohup npx json-graphql-server db.js --p 80 > /dev/null 2>&1 &
-          sleep 5s
+    - name: Instalar peaceiris/actions-gh-pages
+      run: npm install -g gh-pages
 
-      - name: Deploy no GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+    - name: Publicar no GitHub Pages
+      run: |
+        gh-pages -d $GITHUB_WORKSPACE -b master

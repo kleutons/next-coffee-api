@@ -10,13 +10,15 @@ on:
 
 jobs:
   deploy:
-    name: Build
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-  
+      
+    - name: Copiar arquivo JSON
+      run: cp db.json $GITHUB_WORKSPACE
+      
     - name: Instalar peaceiris/actions-gh-pages
       run: npm install -g gh-pages
 

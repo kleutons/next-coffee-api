@@ -3,7 +3,7 @@
       {
         "id": "33905b2e-53eb-4b25-8c7a-d8f7fb9f58bd",
         "name": "Camiseta Outcast",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-06.jpg",
         "price_in_cents": 4273,
         "category": "t-shirts",
         "description": "Beatae dolorem beatae quia. Repellat nesciunt aut esse reprehenderit nesciunt sunt beatae aut commodi. A quos voluptate et voluptas earum voluptates vitae et. Quis nihil occaecati veniam amet.",
@@ -13,7 +13,7 @@
       {
         "id": "0d41b593-4827-47b0-a445-0c9f6ef06450",
         "name": "Camiseta Broken Saints",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-03.jpg",
         "price_in_cents": 7154,
         "category": "t-shirts",
         "description": "Repellendus perspiciatis beatae quos quas nam cupiditate vitae aut laboriosam. Nostrum voluptatum debitis qui perspiciatis quaerat quas et perferendis. Quisquam non laboriosam minima excepturi mollitia enim pariatur.",
@@ -23,7 +23,7 @@
       {
         "id": "4b2db8e4-f8a8-40e5-92b3-00eee6691813",
         "name": "Camiseta DREAMER",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-01.jpg",
         "price_in_cents": 7662,
         "category": "t-shirts",
         "description": "Officia quaerat aut. Veritatis quaerat quasi magni. Magni illum debitis voluptate ex aut in.",
@@ -32,8 +32,8 @@
       },
       {
         "id": "351ed78a-19c9-4d68-aef5-be9b8fcef4aa",
-        "name": "Camiseta evening",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "name": "Camiseta Woman evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-08.jpg",
         "price_in_cents": 6669,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",
@@ -43,7 +43,7 @@
       {
         "id": "8a908320-c75a-419d-8cfd-df1b2f901f2a",
         "name": "Caneca The Grounds",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-05.jpg",
         "price_in_cents": 4154,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -53,7 +53,7 @@
       {
         "id": "367783a7-b399-4858-918f-51596559c032",
         "name": "Caneca Black Ring",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-09.jpg",
         "price_in_cents": 5669,
         "category": "mugs",
         "description": "Culpa ducimus cupiditate aliquam officia. Dolor quia omnis illum nulla. Quisquam id numquam atque. Dolorem expedita autem consequatur molestias assumenda. Mollitia pariatur at magni quas et.",
@@ -62,8 +62,8 @@
       },
       {
         "id": "3c643d62-a71f-4e0b-891a-8ffab1877170",
-        "name": "Camiseta not today.",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
+        "name": "Camiseta DREAMER.",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-10.jpg",
         "price_in_cents": 6049,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -72,8 +72,8 @@
       },
       {
         "id": "390aa22e-e208-4c5f-bfd2-52f58b77599f",
-        "name": "Caneca preto fosco",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "name": "Caneca Branco Sol",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 3357,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -83,7 +83,7 @@
       {
         "id": "74567802-16b0-451c-832a-97b85e0988c8",
         "name": "Caneca Decaf! P&Co",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-02.jpg",
         "price_in_cents": 2507,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -93,7 +93,7 @@
       {
         "id": "6b1760fc-e3cf-4868-a6cc-aae8a3c6a57d",
         "name": "Caneca de cerâmica rústica",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-06.jpg",
         "price_in_cents": 7005,
         "category": "mugs",
         "description": "A non eos dolores at maiores et. Delectus nihil quia nobis reprehenderit tempora. Aut autem veniam. Dignissimos quia velit. Est aut doloremque. Cupiditate consequatur ipsam.",
@@ -102,8 +102,8 @@
       },
       {
         "id": "87c18461-5134-4e75-841c-cb94de2d4be2",
-        "name": "Camiseta Ramones",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "name": "Camiseta Woman evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-08.jpg",
         "price_in_cents": 3189,
         "category": "t-shirts",
         "description": "Laudantium fugiat ut sed. Enim ex perferendis mollitia et culpa occaecati non. Et non odit repudiandae velit quas. Doloribus ipsum quo odio iste provident hic dolorum nam.",
@@ -113,7 +113,7 @@
       {
         "id": "d4af3cd3-b796-4993-b6be-0f020c94fea8",
         "name": "Caneca Never settle",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-0.jpg",
         "price_in_cents": 8484,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -122,8 +122,8 @@
       },
       {
         "id": "f4ed377c-6bdd-41fe-bb18-8fd63e524c38",
-        "name": "Caneca Never settle",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
+        "name": "Caneca Verder Settle",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-10.jpg",
         "price_in_cents": 9701,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -133,7 +133,7 @@
       {
         "id": "7a70782d-dec3-4834-b5fa-34e283003ab4",
         "name": "Camiseta Outcast",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-06.jpg",
         "price_in_cents": 6254,
         "category": "t-shirts",
         "description": "Beatae dolorem beatae quia. Repellat nesciunt aut esse reprehenderit nesciunt sunt beatae aut commodi. A quos voluptate et voluptas earum voluptates vitae et. Quis nihil occaecati veniam amet.",
@@ -143,7 +143,7 @@
       {
         "id": "cae5241e-d000-4a47-a3bc-691f6aaee48c",
         "name": "Caneca Decaf! P&Co",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-09.jpg",
         "price_in_cents": 3244,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -153,7 +153,7 @@
       {
         "id": "2108fe39-6ad5-497d-9ca2-a174374dff60",
         "name": "Camiseta DREAMER",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-01.jpg",
         "price_in_cents": 8757,
         "category": "t-shirts",
         "description": "Officia quaerat aut. Veritatis quaerat quasi magni. Magni illum debitis voluptate ex aut in.",
@@ -162,8 +162,8 @@
       },
       {
         "id": "2c202d58-c94a-48c1-b36f-9ce00375d7e4",
-        "name": "Caneca preto fosco",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "name": "Caneca Branco Sol",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 7314,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -173,7 +173,7 @@
       {
         "id": "5b0f4515-8fe4-436c-9131-c91e54b4b05c",
         "name": "Camiseta Broken Saints",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-03.jpg",
         "price_in_cents": 6794,
         "category": "t-shirts",
         "description": "Repellendus perspiciatis beatae quos quas nam cupiditate vitae aut laboriosam. Nostrum voluptatum debitis qui perspiciatis quaerat quas et perferendis. Quisquam non laboriosam minima excepturi mollitia enim pariatur.",
@@ -183,7 +183,7 @@
       {
         "id": "07d6fc20-296e-4a54-a14d-c9f23c2571ef",
         "name": "Caneca The Grounds",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 6568,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -193,7 +193,7 @@
       {
         "id": "b30d6e13-1f38-4958-b70c-3ecb49e28d0b",
         "name": "Caneca Black Ring",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-04.jpg",
         "price_in_cents": 8901,
         "category": "mugs",
         "description": "Culpa ducimus cupiditate aliquam officia. Dolor quia omnis illum nulla. Quisquam id numquam atque. Dolorem expedita autem consequatur molestias assumenda. Mollitia pariatur at magni quas et.",
@@ -203,7 +203,7 @@
       {
         "id": "1d481f81-7203-43ea-918f-f367a4f23041",
         "name": "Camiseta Ramones",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-04.jpg",
         "price_in_cents": 9380,
         "category": "t-shirts",
         "description": "Laudantium fugiat ut sed. Enim ex perferendis mollitia et culpa occaecati non. Et non odit repudiandae velit quas. Doloribus ipsum quo odio iste provident hic dolorum nam.",
@@ -212,8 +212,8 @@
       },
       {
         "id": "b33d615c-a956-4913-b39e-a7b570a6ac26",
-        "name": "Camiseta not today.",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
+        "name": "Camiseta Outcast.",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-09.jpg",
         "price_in_cents": 7456,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -223,7 +223,7 @@
       {
         "id": "32df3820-7224-44ac-aef3-57a01e94ad17",
         "name": "Caneca de cerâmica rústica",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-06.jpg",
         "price_in_cents": 3798,
         "category": "mugs",
         "description": "A non eos dolores at maiores et. Delectus nihil quia nobis reprehenderit tempora. Aut autem veniam. Dignissimos quia velit. Est aut doloremque. Cupiditate consequatur ipsam.",
@@ -232,8 +232,8 @@
       },
       {
         "id": "90abb49c-1235-44ad-ada0-1fa8f57afa6b",
-        "name": "Camiseta evening",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "name": "Camiseta Man evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-02.jpg",
         "price_in_cents": 3655,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",
@@ -242,8 +242,8 @@
       },
       {
         "id": "61a166d9-5a75-4ff6-a26c-f36edab08bfc",
-        "name": "Caneca Decaf! P&Co",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "name": "Caneca Urso Branco Decaf!",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-07.jpg",
         "price_in_cents": 5372,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -253,7 +253,7 @@
       {
         "id": "84f4929b-b368-4ec4-bae6-b58b32a71353",
         "name": "Camiseta Broken Saints",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-03.jpg",
         "price_in_cents": 6941,
         "category": "t-shirts",
         "description": "Repellendus perspiciatis beatae quos quas nam cupiditate vitae aut laboriosam. Nostrum voluptatum debitis qui perspiciatis quaerat quas et perferendis. Quisquam non laboriosam minima excepturi mollitia enim pariatur.",
@@ -262,8 +262,8 @@
       },
       {
         "id": "b8a7fb8a-b18b-48fa-ab3a-8093f081a25b",
-        "name": "Caneca preto fosco",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "name": "Caneca Color Black",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 5006,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -272,8 +272,8 @@
       },
       {
         "id": "3801decd-b20e-4044-958b-238c29f61ffa",
-        "name": "Camiseta evening",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "name": "Camiseta Man evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-02.jpg",
         "price_in_cents": 9773,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",
@@ -283,7 +283,7 @@
       {
         "id": "40ae6541-1312-403f-a852-2c79d2d5e283",
         "name": "Camiseta not today.",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-06.jpg",
         "price_in_cents": 2710,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -293,7 +293,7 @@
       {
         "id": "f70c4e74-94d3-49c1-b56e-9bfba48c7867",
         "name": "Caneca Never settle",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-03.jpg",
         "price_in_cents": 6879,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -302,8 +302,8 @@
       },
       {
         "id": "1b8c2986-7e9d-43a6-97db-1a3241f88433",
-        "name": "Caneca The Grounds",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "name": "Caneca Urso Branco",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-07.jpg",
         "price_in_cents": 9083,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -312,8 +312,8 @@
       },
       {
         "id": "c91cda2a-d9ec-448e-8bb1-0784a1a46c05",
-        "name": "Camiseta Ramones",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "name": "Camiseta Yeshua",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-05.jpg",
         "price_in_cents": 7371,
         "category": "t-shirts",
         "description": "Laudantium fugiat ut sed. Enim ex perferendis mollitia et culpa occaecati non. Et non odit repudiandae velit quas. Doloribus ipsum quo odio iste provident hic dolorum nam.",
@@ -322,8 +322,8 @@
       },
       {
         "id": "9392a345-c622-44b0-bd7d-e777a0b1ce28",
-        "name": "Caneca Black Ring",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "name": "Caneca Black Play",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-03.jpg",
         "price_in_cents": 6738,
         "category": "mugs",
         "description": "Culpa ducimus cupiditate aliquam officia. Dolor quia omnis illum nulla. Quisquam id numquam atque. Dolorem expedita autem consequatur molestias assumenda. Mollitia pariatur at magni quas et.",
@@ -333,7 +333,7 @@
       {
         "id": "ba11a75a-f2e9-44c8-b634-a2488a4513e0",
         "name": "Camiseta DREAMER",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-01.jpg",
         "price_in_cents": 2806,
         "category": "t-shirts",
         "description": "Officia quaerat aut. Veritatis quaerat quasi magni. Magni illum debitis voluptate ex aut in.",
@@ -343,7 +343,7 @@
       {
         "id": "aaa90798-008b-4cd6-8326-3d61714d09ba",
         "name": "Camiseta Outcast",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-09.jpg",
         "price_in_cents": 6908,
         "category": "t-shirts",
         "description": "Beatae dolorem beatae quia. Repellat nesciunt aut esse reprehenderit nesciunt sunt beatae aut commodi. A quos voluptate et voluptas earum voluptates vitae et. Quis nihil occaecati veniam amet.",
@@ -353,7 +353,7 @@
       {
         "id": "c80bdc53-7ea9-451c-8e19-c804ddf6e58a",
         "name": "Caneca de cerâmica rústica",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-06.jpg",
         "price_in_cents": 5871,
         "category": "mugs",
         "description": "A non eos dolores at maiores et. Delectus nihil quia nobis reprehenderit tempora. Aut autem veniam. Dignissimos quia velit. Est aut doloremque. Cupiditate consequatur ipsam.",
@@ -363,7 +363,7 @@
       {
         "id": "70d6feb4-c456-47ed-ac59-5a2ac0ca94ff",
         "name": "Caneca de cerâmica rústica",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-09.jpg",
         "price_in_cents": 9491,
         "category": "mugs",
         "description": "A non eos dolores at maiores et. Delectus nihil quia nobis reprehenderit tempora. Aut autem veniam. Dignissimos quia velit. Est aut doloremque. Cupiditate consequatur ipsam.",
@@ -373,7 +373,7 @@
       {
         "id": "d7b59cd7-ac4c-4a10-991f-b09ebbd7a7cd",
         "name": "Camiseta Outcast",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-06.jpg",
         "price_in_cents": 7743,
         "category": "t-shirts",
         "description": "Beatae dolorem beatae quia. Repellat nesciunt aut esse reprehenderit nesciunt sunt beatae aut commodi. A quos voluptate et voluptas earum voluptates vitae et. Quis nihil occaecati veniam amet.",
@@ -382,8 +382,8 @@
       },
       {
         "id": "2e8001f0-1cfa-4f62-9b8d-321c384122c1",
-        "name": "Caneca Never settle",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
+        "name": "Caneca Color Black",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 9394,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -392,8 +392,8 @@
       },
       {
         "id": "b9e94336-a7fe-440f-ad39-204d3f3bccce",
-        "name": "Camiseta not today.",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
+        "name": "Camiseta Yeshua.",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-05.jpg",
         "price_in_cents": 5057,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -403,7 +403,7 @@
       {
         "id": "ce73646e-fe85-467e-8573-5c7c4d6ff9c3",
         "name": "Camiseta Ramones",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-07.jpg",
         "price_in_cents": 5311,
         "category": "t-shirts",
         "description": "Laudantium fugiat ut sed. Enim ex perferendis mollitia et culpa occaecati non. Et non odit repudiandae velit quas. Doloribus ipsum quo odio iste provident hic dolorum nam.",
@@ -413,7 +413,7 @@
       {
         "id": "892e7cdf-6547-4fd8-845c-6fef5048ea40",
         "name": "Caneca Black Ring",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-04.jpg",
         "price_in_cents": 8637,
         "category": "mugs",
         "description": "Culpa ducimus cupiditate aliquam officia. Dolor quia omnis illum nulla. Quisquam id numquam atque. Dolorem expedita autem consequatur molestias assumenda. Mollitia pariatur at magni quas et.",
@@ -422,8 +422,8 @@
       },
       {
         "id": "31610b96-6c77-4b6f-a909-2237113f2520",
-        "name": "Caneca preto fosco",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "name": "Caneca Verde fosco",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-10.jpg",
         "price_in_cents": 9100,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -433,7 +433,7 @@
       {
         "id": "0ebdaaef-ab17-481b-9290-618864e19780",
         "name": "Caneca The Grounds",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-05.jpg",
         "price_in_cents": 2318,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -443,7 +443,7 @@
       {
         "id": "575ac918-c5d9-46dd-b3ab-343cdfe0a746",
         "name": "Camiseta DREAMER",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-10.jpg",
         "price_in_cents": 8506,
         "category": "t-shirts",
         "description": "Officia quaerat aut. Veritatis quaerat quasi magni. Magni illum debitis voluptate ex aut in.",
@@ -452,8 +452,8 @@
       },
       {
         "id": "52e8f34c-752c-4b62-abab-da75597eb390",
-        "name": "Camiseta evening",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "name": "Camiseta Man evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-02.jpg",
         "price_in_cents": 3865,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",
@@ -463,7 +463,7 @@
       {
         "id": "19018350-a6af-48a8-9367-2dd29aeac5a5",
         "name": "Camiseta Broken Saints",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-03.jpg",
         "price_in_cents": 2754,
         "category": "t-shirts",
         "description": "Repellendus perspiciatis beatae quos quas nam cupiditate vitae aut laboriosam. Nostrum voluptatum debitis qui perspiciatis quaerat quas et perferendis. Quisquam non laboriosam minima excepturi mollitia enim pariatur.",
@@ -473,7 +473,7 @@
       {
         "id": "7af94a4a-e97b-4443-b657-8086a28aa280",
         "name": "Caneca Decaf! P&Co",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 7218,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -483,7 +483,7 @@
       {
         "id": "0400abf9-31aa-463a-aacf-6d2c9dc7f953",
         "name": "Caneca Decaf! P&Co",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-02.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-02.jpg",
         "price_in_cents": 8336,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -493,7 +493,7 @@
       {
         "id": "a491e76c-f66b-4cde-aa94-ec41f6c111f8",
         "name": "Caneca Black Ring",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-04.jpg",
         "price_in_cents": 5295,
         "category": "mugs",
         "description": "Culpa ducimus cupiditate aliquam officia. Dolor quia omnis illum nulla. Quisquam id numquam atque. Dolorem expedita autem consequatur molestias assumenda. Mollitia pariatur at magni quas et.",
@@ -503,7 +503,7 @@
       {
         "id": "11499167-64a7-4915-adf8-20b985edb1b8",
         "name": "Camiseta Ramones",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-04.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-08.jpg",
         "price_in_cents": 4695,
         "category": "t-shirts",
         "description": "Laudantium fugiat ut sed. Enim ex perferendis mollitia et culpa occaecati non. Et non odit repudiandae velit quas. Doloribus ipsum quo odio iste provident hic dolorum nam.",
@@ -512,8 +512,8 @@
       },
       {
         "id": "fe746c81-03fa-41bb-b669-05b71aca0fa7",
-        "name": "Caneca Never settle",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-03.jpg",
+        "name": "Caneca Never Play",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-03.jpg",
         "price_in_cents": 5932,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -522,8 +522,8 @@
       },
       {
         "id": "36d4ffed-5720-4799-9c0e-43ab1096b312",
-        "name": "Camiseta not today.",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-05.jpg",
+        "name": "Camiseta Yeshua.",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-05.jpg",
         "price_in_cents": 2465,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -533,7 +533,7 @@
       {
         "id": "6e337e51-1dc2-43bf-a110-270e342a2364",
         "name": "Camiseta DREAMER",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-01.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-01.jpg",
         "price_in_cents": 9246,
         "category": "t-shirts",
         "description": "Officia quaerat aut. Veritatis quaerat quasi magni. Magni illum debitis voluptate ex aut in.",
@@ -542,8 +542,8 @@
       },
       {
         "id": "87f06247-a191-4c79-8d78-b915d3bd5483",
-        "name": "Camiseta Outcast",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-06.jpg",
+        "name": "Camiseta Ramones",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-07.jpg",
         "price_in_cents": 2234,
         "category": "t-shirts",
         "description": "Beatae dolorem beatae quia. Repellat nesciunt aut esse reprehenderit nesciunt sunt beatae aut commodi. A quos voluptate et voluptas earum voluptates vitae et. Quis nihil occaecati veniam amet.",
@@ -553,7 +553,7 @@
       {
         "id": "247ddec1-87a8-4d19-a5e7-cfa39184f129",
         "name": "Camiseta Broken Saints",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-03.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-03.jpg",
         "price_in_cents": 9428,
         "category": "t-shirts",
         "description": "Repellendus perspiciatis beatae quos quas nam cupiditate vitae aut laboriosam. Nostrum voluptatum debitis qui perspiciatis quaerat quas et perferendis. Quisquam non laboriosam minima excepturi mollitia enim pariatur.",
@@ -563,7 +563,7 @@
       {
         "id": "bb9e190b-4b39-4a19-8d99-3390b186a86c",
         "name": "Caneca de cerâmica rústica",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-06.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-06.jpg",
         "price_in_cents": 2035,
         "category": "mugs",
         "description": "A non eos dolores at maiores et. Delectus nihil quia nobis reprehenderit tempora. Aut autem veniam. Dignissimos quia velit. Est aut doloremque. Cupiditate consequatur ipsam.",
@@ -572,8 +572,8 @@
       },
       {
         "id": "b4a95531-9093-4b1d-adb4-bcf94e0b6971",
-        "name": "Caneca preto fosco",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-01.jpg",
+        "name": "Caneca Branco Sol",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 2924,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -583,7 +583,7 @@
       {
         "id": "8f227e21-840f-4872-9e95-ba973231d05e",
         "name": "Caneca The Grounds",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/caneca-05.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-09.jpg",
         "price_in_cents": 5501,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -592,8 +592,8 @@
       },
       {
         "id": "badbc463-f4e5-48be-847c-44241e6c9e9f",
-        "name": "Camiseta evening",
-        "image_url": "https://storage.googleapis.com/xesque-dev/challenge-images/camiseta-02.jpg",
+        "name": "Camiseta Man evening",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-02.jpg",
         "price_in_cents": 5305,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",

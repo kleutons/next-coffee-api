@@ -262,8 +262,8 @@
       },
       {
         "id": "b8a7fb8a-b18b-48fa-ab3a-8093f081a25b",
-        "name": "Caneca Gold",
-        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
+        "name": "Caneca Happy Sun",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 5006,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",
@@ -572,8 +572,8 @@
       },
       {
         "id": "b4a95531-9093-4b1d-adb4-bcf94e0b6971",
-        "name": "Caneca Happy Sun",
-        "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
+        "name": "Caneca Decaf! Coffe",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-02.jpg",
         "price_in_cents": 2924,
         "category": "mugs",
         "description": "Consequuntur nam placeat error aspernatur dolores animi molestias rerum aliquid. Quasi fugiat aperiam. Ea magni quis magnam ut corporis tempora recusandae ut dolor. Nisi et est sed. Asperiores explicabo exercitationem nam eius sunt. Ab et et labore omnis officiis voluptatum est provident omnis.",

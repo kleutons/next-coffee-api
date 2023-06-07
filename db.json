@@ -62,8 +62,8 @@
       },
       {
         "id": "3c643d62-a71f-4e0b-891a-8ffab1877170",
-        "name": "Camiseta DREAMER.",
-        "image_url": "https://kleutons.github.io/store-api/img/camiseta-10.jpg",
+        "name": "Camiseta Yeshua",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-05.jpg",
         "price_in_cents": 6049,
         "category": "t-shirts",
         "description": "Eos facere pariatur suscipit placeat est. Veniam aut et ex. Laboriosam velit ipsa consequatur pariatur et modi. Et deleniti magnam maxime optio natus ullam quibusdam eum. Ea ea quis autem ad facere non reiciendis quia id.",
@@ -72,7 +72,7 @@
       },
       {
         "id": "390aa22e-e208-4c5f-bfd2-52f58b77599f",
-        "name": "Caneca Branco Sol",
+        "name": "Caneca Happy Sun",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 3357,
         "category": "mugs",
@@ -82,7 +82,7 @@
       },
       {
         "id": "74567802-16b0-451c-832a-97b85e0988c8",
-        "name": "Caneca Decaf! P&Co",
+        "name": "Caneca Decaf! Coffe",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-02.jpg",
         "price_in_cents": 2507,
         "category": "mugs",
@@ -113,7 +113,7 @@
       {
         "id": "d4af3cd3-b796-4993-b6be-0f020c94fea8",
         "name": "Caneca Never settle",
-        "image_url": "https://kleutons.github.io/store-api/img/caneca-0.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-03.jpg",
         "price_in_cents": 8484,
         "category": "mugs",
         "description": "Eos cupiditate debitis nihil qui vitae. Quibusdam suscipit nemo laborum et nisi molestiae. Totam quia velit et quis autem veniam recusandae ut nihil.",
@@ -162,7 +162,7 @@
       },
       {
         "id": "2c202d58-c94a-48c1-b36f-9ce00375d7e4",
-        "name": "Caneca Branco Sol",
+        "name": "Caneca Happy Sun",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 7314,
         "category": "mugs",
@@ -182,7 +182,7 @@
       },
       {
         "id": "07d6fc20-296e-4a54-a14d-c9f23c2571ef",
-        "name": "Caneca The Grounds",
+        "name": "Caneca Gold",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 6568,
         "category": "mugs",
@@ -262,7 +262,7 @@
       },
       {
         "id": "b8a7fb8a-b18b-48fa-ab3a-8093f081a25b",
-        "name": "Caneca Color Black",
+        "name": "Caneca Gold",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 5006,
         "category": "mugs",
@@ -382,7 +382,7 @@
       },
       {
         "id": "2e8001f0-1cfa-4f62-9b8d-321c384122c1",
-        "name": "Caneca Color Black",
+        "name": "Caneca Gold",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
         "price_in_cents": 9394,
         "category": "mugs",
@@ -432,8 +432,8 @@
       },
       {
         "id": "0ebdaaef-ab17-481b-9290-618864e19780",
-        "name": "Caneca The Grounds",
-        "image_url": "https://kleutons.github.io/store-api/img/caneca-05.jpg",
+        "name": "Caneca Cofe",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-02.jpg",
         "price_in_cents": 2318,
         "category": "mugs",
         "description": "Voluptas dolorum perferendis vitae tenetur sint similique maxime corporis. Et sed vel sit nihil voluptas sint et. Enim deserunt voluptatibus ullam labore illo. Perferendis voluptas consectetur beatae quos inventore aut. Repellendus vel magni pariatur ullam accusantium in. Et voluptatibus unde deleniti.",
@@ -442,7 +442,7 @@
       },
       {
         "id": "575ac918-c5d9-46dd-b3ab-343cdfe0a746",
-        "name": "Camiseta DREAMER",
+        "name": "Camiseta Orange",
         "image_url": "https://kleutons.github.io/store-api/img/camiseta-10.jpg",
         "price_in_cents": 8506,
         "category": "t-shirts",
@@ -452,8 +452,8 @@
       },
       {
         "id": "52e8f34c-752c-4b62-abab-da75597eb390",
-        "name": "Camiseta Man evening",
-        "image_url": "https://kleutons.github.io/store-api/img/camiseta-02.jpg",
+        "name": "Camiseta DREAMER",
+        "image_url": "https://kleutons.github.io/store-api/img/camiseta-01.jpg",
         "price_in_cents": 3865,
         "category": "t-shirts",
         "description": "Magni placeat delectus et nostrum veniam dolor. Atque voluptatem quos ut ea numquam voluptatem maiores. Facilis et ut quo consectetur id voluptatem sequi ex. Ex dolor perferendis vero. Dignissimos quia sit quibusdam. Et nihil distinctio est eaque officiis odio est commodi.",
@@ -473,7 +473,7 @@
       {
         "id": "7af94a4a-e97b-4443-b657-8086a28aa280",
         "name": "Caneca Decaf! P&Co",
-        "image_url": "https://kleutons.github.io/store-api/img/caneca-08.jpg",
+        "image_url": "https://kleutons.github.io/store-api/img/caneca-05.jpg",
         "price_in_cents": 7218,
         "category": "mugs",
         "description": "Atque sit soluta facere blanditiis aut veritatis. Vel inventore et aspernatur reiciendis omnis neque perspiciatis repellat. Est qui iusto culpa in voluptate quaerat ipsa commodi aut. Voluptas expedita eos ipsa laboriosam harum non qui. Sed eligendi quo. Vel ducimus architecto quasi ullam magnam qui.",
@@ -572,7 +572,7 @@
       },
       {
         "id": "b4a95531-9093-4b1d-adb4-bcf94e0b6971",
-        "name": "Caneca Branco Sol",
+        "name": "Caneca Happy Sun",
         "image_url": "https://kleutons.github.io/store-api/img/caneca-01.jpg",
         "price_in_cents": 2924,
         "category": "mugs",
